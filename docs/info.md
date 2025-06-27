@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project uses an AND gate in order to display red lines on a seven segment display. 
 
 ## How to test
 
-Explain how to use your project
+The project is used by switching on or off certain inputs. 
 
 ## External hardware
 
